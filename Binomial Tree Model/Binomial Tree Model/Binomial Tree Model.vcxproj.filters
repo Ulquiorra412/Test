@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\OptionsPricer">
+      <UniqueIdentifier>{5ed629ea-c43a-4c75-ac6f-ecba9d80f457}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\class practice">
+      <UniqueIdentifier>{33d8ff36-d7ef-4b53-bdfb-a63eb9afa0ee}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BinomialTreeModel.cpp">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClCompile>
+    <ClCompile Include="BinomialTreeModel1.cpp">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClCompile>
+    <ClCompile Include="BinomialTreeModel2.cpp">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClCompile>
+    <ClCompile Include="BinomialTreeModel3.cpp">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClCompile>
+    <ClCompile Include="BinomialTreeModel4.cpp">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClCompile>
+    <ClCompile Include="BinomialTreeModel5.cpp">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClCompile>
+    <ClCompile Include="Option01.cpp">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionPricer01.cpp">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionPricer02.cpp">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClCompile>
+    <ClCompile Include="Options02.cpp">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle.cpp">
+      <Filter>Source Files\class practice</Filter>
+    </ClCompile>
+    <ClCompile Include="BiomialTreeModelv2.cpp">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClCompile>
+    <ClCompile Include="Options03.cpp">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionsPricer03.cpp">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BinomialTreeModel.h">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClInclude>
+    <ClInclude Include="Option01.h">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClInclude>
+    <ClInclude Include="Options02.h">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClInclude>
+    <ClInclude Include="BinomialTreeModelv2.h">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClInclude>
+    <ClInclude Include="Options03.h">
+      <Filter>Source Files\OptionsPricer</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

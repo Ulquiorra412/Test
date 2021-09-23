@@ -1,0 +1,2 @@
+C:\Users\98499\source\repos\Hello World\Debug\Hello World.exe
+C:\Users\98499\source\repos\Hello World\Debug\Hello World.pdb

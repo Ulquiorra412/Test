@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\function practice">
+      <UniqueIdentifier>{e571d228-3b0c-46a4-a6a9-1cb511d641b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\OOP">
+      <UniqueIdentifier>{e15d77eb-b93d-4831-b393-20eeb6200f09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\OOP\client">
+      <UniqueIdentifier>{7aac5a5d-923f-4f7e-aa30-6b06c2b0cdee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Pointer">
+      <UniqueIdentifier>{1921fc5b-da7d-4e54-8741-adc32c16d9b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Inheritance">
+      <UniqueIdentifier>{6ff443b8-4618-42d7-aa69-9ce55d1ea475}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\polymorphism">
+      <UniqueIdentifier>{def9134e-6879-4591-aa51-0a01a74136bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\container">
+      <UniqueIdentifier>{42ccc2dd-acd8-4b05-be78-b225357cfb7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\File">
+      <UniqueIdentifier>{392b03d2-7d7a-43ba-bd8e-0b86f1ad84bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\exception">
+      <UniqueIdentifier>{449a7706-5aac-490c-869b-073686f8fb24}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="manualsin.cpp">
+      <Filter>Source Files\function practice</Filter>
+    </ClCompile>
+    <ClCompile Include="dicegame.cpp">
+      <Filter>Source Files\function practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="client.cpp">
+      <Filter>Source Files\OOP\client</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>Source Files\OOP\client</Filter>
+    </ClCompile>
+    <ClCompile Include="Clock.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Transposition.cpp">
+      <Filter>Source Files\function practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Function Pointer.cpp">
+      <Filter>Source Files\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="Object Pointer.cpp">
+      <Filter>Source Files\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="multidimensional array.cpp">
+      <Filter>Source Files\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="vector.cpp">
+      <Filter>Source Files\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="Animal.cpp">
+      <Filter>Source Files\Inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="vehicle.cpp">
+      <Filter>Source Files\Inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="complex.cpp">
+      <Filter>Source Files\polymorphism</Filter>
+    </ClCompile>
+    <ClCompile Include="Clock2.cpp">
+      <Filter>Source Files\polymorphism</Filter>
+    </ClCompile>
+    <ClCompile Include="vectorAndDeque.cpp">
+      <Filter>Source Files\container</Filter>
+    </ClCompile>
+    <ClCompile Include="stack.cpp">
+      <Filter>Source Files\container</Filter>
+    </ClCompile>
+    <ClCompile Include="priority queue.cpp">
+      <Filter>Source Files\container</Filter>
+    </ClCompile>
+    <ClCompile Include="set.cpp">
+      <Filter>Source Files\container</Filter>
+    </ClCompile>
+    <ClCompile Include="map.cpp">
+      <Filter>Source Files\container</Filter>
+    </ClCompile>
+    <ClCompile Include="map2.cpp">
+      <Filter>Source Files\container</Filter>
+    </ClCompile>
+    <ClCompile Include="line number.cpp">
+      <Filter>Source Files\File</Filter>
+    </ClCompile>
+    <ClCompile Include="exception1.cpp">
+      <Filter>Source Files\exception</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="client.h">
+      <Filter>Source Files\OOP\client</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
